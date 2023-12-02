@@ -7,15 +7,7 @@
 
 <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif">
 
-###
 
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 <h1 align="center">Hi there, I'm Prasant kumar sethi ! 👋</h1>
