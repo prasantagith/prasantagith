@@ -4,8 +4,8 @@
 
 
 ###
-<h1 align="center">Hi there, I'm Prasant kumar sethi ! 👋</h1>
-<h3 align="center">I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!</h3>
+<h6 align="center">Hi there, I'm Prasant kumar Sethi ! 👋</h6>
+<h3 align="center">I'm a passionate Python Developer from Bengaluru. Welcome to my GitHub profile!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ## 🔧 Technologies & Tools
