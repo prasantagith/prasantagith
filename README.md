@@ -6,7 +6,7 @@
 ###
 <h6 align="center">Hi there, I'm Prasant kumar Sethi ! 👋</h6>
 <h3 align="center">I'm a passionate Python Developer from Bengaluru. Welcome to my GitHub profile!</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 ## 🔧 Technologies & Tools
 - **Languages:**
