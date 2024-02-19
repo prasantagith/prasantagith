@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prasantagith&rank=SECRET,SSS,SS,S,AAA)](https://github-profile-trophy.vercel.app/?username=prasantagith&&rank=SECRET,SSS,SS,S,AAA)
+
 
 ## 🔧 Technologies & Tools
 - **Languages:**
