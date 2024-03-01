@@ -1,7 +1,5 @@
 
 
-
-
 <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif">
 <h6 align="center">Hi there, I'm Prasant kumar Sethi ! 👋</h1>
 <h3 align="center">I'm a passionate Python Developer from Bengaluru. Welcome to my GitHub profile!</h3>
