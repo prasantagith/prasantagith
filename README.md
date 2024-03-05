@@ -25,8 +25,6 @@
 
 ## 🌱 I’m currently learning...
 - Exploring DevOps practices and tools 🛠️
-- Enhancing my skills in automation and CI/CD pipelines 🤖
-
 ## 👥 I'm looking to collaborate on...
 - Open-source projects related to DevOps and automation 🌐
 - Building tools to simplify software development workflows ⚙️
