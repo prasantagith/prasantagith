@@ -23,9 +23,9 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌱 I’m currently learning... 
+## 😒 I’m currently learning... 
 - Exploring DevOps practices and tools 🛠️
-## 👥 I'm looking to collaborate on...
+## 🤝 I'm looking to collaborate on...
 - Open-source projects related to DevOps and automation 🌐
 - Building tools to simplify software development workflows ⚙️
 - Exploring innovative solutions for continuous integration and delivery 🚚
@@ -38,7 +38,7 @@
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasantagith&show_icons=true&theme=radical)
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=prasantagith&show_icons=true&theme=radical" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasantagith&show_icons=true&theme=radical" />-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasantagith&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
